@@ -4,13 +4,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=zeroo-0&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
-<!--- P R O F I L E   B A N N E R --->
-
-<h1 align="center">
-  <img src="https://i0.wp.com/idavox.com/wp-content/uploads/mqdefault.jpg?resize=320%2C180&ssl=1">
-</h1>
-
-
 <!--- A N I M A T E D   T E X T --->
 
 <h1 align="center">  
@@ -22,7 +15,7 @@
 
 <!--- A B O U T   M E --->
 
-<h4 align="center">
+<h4 align="left">
     :clown: Im 15 yr from italy, i know python and js :clown:<br>
 </h4>
 
@@ -31,5 +24,6 @@
 
 <div align="left">
      follow my replit<br>
-    <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://media.discordapp.net/attachments/1068046653791158333/1077534758067773512/replit-icon-filled.png?width=205&height=205" target="_blank"></a>
+    <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://user-images.githubusercontent.com/125908067/220318749-54becbbd-b931-4120-8fcf-916b67e48720.png
+" target="_blank"></a>
 </div>
