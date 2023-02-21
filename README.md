@@ -16,7 +16,7 @@
 <!--- A B O U T   M E --->
 
 <h4 align="left">
-    :clown: Im 15 yr from italy, i know python and js :clown:<br>
+    🤡 Im 15 yr from italy, i know python and js 🤡<br>
 </h4>
 
 
