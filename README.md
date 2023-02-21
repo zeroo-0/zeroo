@@ -1,12 +1,13 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img align="right" src="[[https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat](https://media.tenor.com/lKPTq_kEQO8AAAAC/gypsy-crusader.gif)](https://tenor.com/btk2N.gif)"><br>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
+  <img src="[https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg](https://tenor.com/btk2N.gif)">
 </h1>
 
 
