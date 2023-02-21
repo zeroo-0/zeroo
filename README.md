@@ -29,19 +29,7 @@
 
 <!--- Replit --->
 
-<div align="center">
+<div align="left">
      follow my replit<br>
     <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://media.discordapp.net/attachments/1068046653791158333/1077534758067773512/replit-icon-filled.png?width=205&height=205" target="_blank"></a>
 </div>
-
-
-<!--- G R E E T I N G   T E X T   A N D   I M A G E --->
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+visitng+my+page">
-    </a>
-</div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
