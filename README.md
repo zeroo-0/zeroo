@@ -30,6 +30,7 @@
 <!--- Replit --->
 
 <div align="center">
+     follow my replit<br>
     <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://media.discordapp.net/attachments/1068046653791158333/1077534758067773512/replit-icon-filled.png?width=205&height=205" target="_blank"></a>
 </div>
 
