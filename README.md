@@ -30,7 +30,8 @@
 <!--- Replit --->
 
 <div align="center">
-    <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://images-ext-1.discordapp.net/external/BBYrW_CkyxB0w6kcBe0yBqGgRgvkGbV6-uvgo7Ndmag/https/storage.googleapis.com/replit/images/1676911968399_f43d2e747c5ffc68381da28ca4eca9cd.gif?width=176&height=17y" target="_blank"></a>
+    <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://user-images.githubusercontent.com/125908067/220315812-d8f7c4a1-6482-4d8f-a418-306566f18b3f.png
+" target="_blank"></a>
 </div>
 
 
