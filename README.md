@@ -7,7 +7,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="[https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg](https://tenor.com/btk2N.gif)">
+  <img src="https://xyz.net.au/wp-content/uploads/2021/03/77284C0F-D1D1-49B5-9732-CB8377415998.jpeg">
 </h1>
 
 
