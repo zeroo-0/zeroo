@@ -7,7 +7,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://media.tenor.com/images/801ba9bf835fa3d638ee4c5428717b0b/tenor.gif">
+  <img src="https://i0.wp.com/idavox.com/wp-content/uploads/mqdefault.jpg?resize=320%2C180&ssl=1">
 </h1>
 
 
