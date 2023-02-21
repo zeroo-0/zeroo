@@ -7,7 +7,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://xyz.net.au/wp-content/uploads/2021/03/77284C0F-D1D1-49B5-9732-CB8377415998.jpeg">
+  <img src="https://media.tenor.com/images/801ba9bf835fa3d638ee4c5428717b0b/tenor.gif">
 </h1>
 
 
@@ -15,7 +15,7 @@
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=435&height=50&lines=Hello+Niggers!;Zeroo+The+Rapist!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=435&height=50&lines=Zeroo+The+Rapist!"/>
   </a>
 </h1>
 
