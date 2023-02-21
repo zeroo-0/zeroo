@@ -34,28 +34,6 @@
 </div>
 
 
-
-
-<!--- M Y   T O P   R E P O --->
-
-<h2 align="center">💾 REPOSITORIES 💾</h2>
-<br>
-<div width="100%" align="center">
-  <!--- Repo #1 --->
-  <a align="right" href="" title="None :sob:"><img align="left" height="115" src=""></a>
-
-<br><br><br><br><br><br>
-
-
-<!--- S H O W   M O R E --->
-
-<h4 align="center">
-  <a href="https://github.com/zeroo-0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-<br>
-<br>
-
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
 <div align="center">
