@@ -24,6 +24,6 @@
 
 <div align="left">
      follow my replit<br>
-    <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://user-images.githubusercontent.com/125908067/220318749-54becbbd-b931-4120-8fcf-916b67e48720.png
-" target="_blank"></a>
+  </h4>
+    <a href="https://replit.com/@antoniocrazy1" target="_blank"><img src="https://th.bing.com/th/id/R.b03c7f9603bf04185a51b54f6bb0a374?rik=KmxZvhC%2fbKG7Mw&pid=ImgRaw&r=0" target="_blank"></a>
 </div>
